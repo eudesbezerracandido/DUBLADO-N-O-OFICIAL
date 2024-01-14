@@ -36,5 +36,15 @@
 <info> Um advogado militar do passado persegue uma gangue que matou sua esposa e levou sua filha.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] FAST CHARLIE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DD84839498AA72272B9B69AA87DDAF989D108C3A$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:593E16D8DAC3DC70BEB229C9B586CCF9908A192C$nome=LEG.FIXA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w0rYX6dDvcz1ASO4MAKPviaAj2x.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Charlie Swift resolve um problema: o bandido que ele matou está sem cabeça e Charlie só será pago se o corpo puder ser identificado.</info>
+</item>
+
+
 
 
