@@ -18,3 +18,13 @@
 <info> 400 d.C., numa época esquecida da América Antiga, um fugitivo hebreu solitário deve preservar a história da sua nação caída enquanto é caçado por um tirano implacável mas resgatar a amante abusada do rei pode despertar o passado de um guerreiro.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] THE SHIFT ( LEG.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B4DBA96CFC06A4BB28B3ACBC8795352F931AEA09$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B7B86B21ECEFC5E1D3CF6087CD7FE6CCC22F9884$nome=LEG.FIXA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ePgcYV0HNTieMuff5NgjDB4ebkf.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Eden e Abdel são dois jovens terroristas que planejam um ataque a uma escola em Bruxelas. Porém, na hora do atentado, Abdel se explode antes do combinado e acaba ferindo Eden, que é socorrido por uma ambulância junto com outras vítimas. Os paramédicos não têm ideia de quem é o menino, mas, quando um deles percebe o cinto cheio de explosivos, já é tarde demais: Eden acordou e ameaça explodir a ambulância se os médicos não o fizerem o que ele manda.</info>
+</item>
+
+
