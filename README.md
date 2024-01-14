@@ -45,6 +45,16 @@
 <info> Charlie Swift resolve um problema: o bandido que ele matou está sem cabeça e Charlie só será pago se o corpo puder ser identificado.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] FERRARI ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CFCEED62500955C40F5A70FF1A19F95FDBDA1E0E$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8658D2EC44A7104D590D6E60FC52C1019019462E$nome=LEG.FIXA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a3HvZHhXt2NdTlMUT7p5LPoHGZp.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Baseada no livro ‘Enzo Ferrari: The Man, the Cars, the Races’, a trama se passará entre os anos 1945 e 1980 ao contar a história do piloto e engenheiro que redefiniu o potente carro esportivo italiano e, quase sozinho, criou a corrida de Fórmula Um.Enzo Ferrari morreu em 1988, aos 90 anos.</info>
+</item>
+
+
 
 
 
