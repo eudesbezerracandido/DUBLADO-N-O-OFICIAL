@@ -27,4 +27,14 @@
 <info>Eden e Abdel são dois jovens terroristas que planejam um ataque a uma escola em Bruxelas. Porém, na hora do atentado, Abdel se explode antes do combinado e acaba ferindo Eden, que é socorrido por uma ambulância junto com outras vítimas. Os paramédicos não têm ideia de quem é o menino, mas, quando um deles percebe o cinto cheio de explosivos, já é tarde demais: Eden acordou e ameaça explodir a ambulância se os médicos não o fizerem o que ele manda.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DUE JUSTICE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D309C4412AD4E1CA90D23825249937813134AB2$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6C7E1C117BD73A36EADE0509BB6A8E4683C772C$nome=LEG.FIXA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/35Uef7fz9ctYbJLXbJBCqvtttEQ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um advogado militar do passado persegue uma gangue que matou sua esposa e levou sua filha.</info>
+</item>
+
+
 
