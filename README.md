@@ -1,5 +1,18 @@
 # DUBLADO-N-O-OFICIAL
 
+
+
+
+
+
+<item>
+<title>[COLOR silver][B] THE VAMPIRE NEXT DOOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586F7796D6DD774F399868CF3D2E04839A9C3274</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/nBrzD4DOsj1lbXvjODGAbA8ddm8.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando Cameron, de 20 anos, descobre que tem uma vampira morando ao lado, ela o convoca para ajudá-la a vingar o assassinato de um ex-amante. Cameron relutantemente concorda e segue em frente na aventura, até descobrir que o alvo principal é sua paixão secreta de cinco anos, Diane.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] 1962 HALLOWEEN MASSACRE ( LEG.) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EEBBACD0CEBBD200A63D6404804C08E6FB2E421$nome=DUBLADO NÃO OFICIAL</link>
