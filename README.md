@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] POBRES CRIATURAS  LEG. FIXA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9694A4D0C2B237BC53EB566C90C7B8F978C676FD</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/reIqVavL4QESfQIMT5PW8CvRH13.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A história de amor e escândalo de Bella Baxter, uma bela mulher que é trazida de volta dos mortos por um excêntrico cientista na Glasgow vitoriana.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] IN THE LAND OF SAINTS AND SINNERS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
