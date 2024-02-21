@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] IN THE LAND OF SAINTS AND SINNERS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20EA096AEE3E9DEA47A11034B6B33D2F74BD9F13</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/eoCG99076jYrxUcDwdgFyApNHye.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Em uma remota vila irlandesa, um homem é forçado a lutar por redenção após uma vida inteira de pecados. Porén, em uma terra de santos e pecadores, alguns pecados não podem ser enterrados.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THE VAMPIRE NEXT DOOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586F7796D6DD774F399868CF3D2E04839A9C3274</link>
