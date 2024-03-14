@@ -7,6 +7,16 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] AMERICA IS SINKING [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B363DE662A02B3F9406279A4169D38F9D8AF3F56$nome=DUBLADO  NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D1ED1527BD644524FB1094C0A60F9295EB97BE1C$nome=LEGENDA FIXA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/iRsoPhMOKOcYi9SmghzY82d0fvG.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Quando as inundações glaciais provocam um efeito cascata de terremotos e tsunamis, os cientistas devem criar buracos para absorver a água e tornar o Ártico frio novamente.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MILLERS GIRLS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55104A22212139601AFEC7C09EEE0F33013E903A</link>
