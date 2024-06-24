@@ -22,7 +22,7 @@
 <title>[COLOR silver][B] AMONG THE WILLOWS ( DUBLADO NÃO OFICIAL ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BD03B5A6B5068A23979BC9C8931E2B19E43D828B$nome=DUBLADO NÃO OFICIAL</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9C7F787F6094D4CE498531EE5BD29461A137F95$nome=LEG. FIXA</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/ude1d7OhBBIIa1Q8WLQACCoKdfM.jpg</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/a7Bnyb2CR8H1C06u9kgpTOeVM31.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> John Williams deve engolir seu orgulho para se associar a um ex-amigo na esperança de rastrear os responsáveis ​​pelo assassinato de sua família.</info>
 </item>
