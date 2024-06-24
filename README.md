@@ -6,6 +6,18 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] FOR SALES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3697490FD32A3031EBA6021B9FF964712F2A369$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C9A4456F2DB630A065E34F58DCBC09751B6FE571$nome=LEG. FIXA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/jecBxbxoVE71fkiTU5lR3Hk6SK9.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando sua vida chega ao fundo do poço, um vendedor duvidoso encontra um trabalho de última hora para vender uma casa mal-assombrada.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AMONG THE WILLOWS ( DUBLADO NÃO OFICIAL ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BD03B5A6B5068A23979BC9C8931E2B19E43D828B$nome=DUBLADO NÃO OFICIAL</link>
