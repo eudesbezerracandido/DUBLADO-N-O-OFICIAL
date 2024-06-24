@@ -7,7 +7,14 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] VIRT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F90DACC6FC950DAE6FB9D7E8D356EE5961D133E$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F9EFD6DA32A11B2FE0C667973903E01699057D0$nome=</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/iyg72bj5Mn8ErbtVdmVOVWor1Xa.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Numa das cidades mais movimentadas dos Estados Unidos, o crime está sempre ao virar da esquina; mas na Virtual Software Solutions o crime assume uma forma totalmente diferente. Joe Wilson, engenheiro-chefe de software virtual da Virtual Software Solutions, trabalha duro e leva seu trabalho muito a sério. Tão sério que quando os assassinatos parecem estar ligados ao banco de dados interno que ele mantém, ele não para por nada, sem se preocupar com sua reputação e credibilidade, para encontrar o assassino e detê-lo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] THE JESSICA CABIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
