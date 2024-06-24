@@ -7,6 +7,17 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] THE JESSICA CABIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FAC0EE1DC1EFBB1E0468DF236F835ECF1D1AB1D2$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C47CCDA1578298C02CB3A4D2879E7BCFC01CDE77$nome=LEG. FIXA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/k1BEdMdoVYHILfSY3fuAvcqaJhS.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma estranha história de fantasmas sobre amor, perda e conexão, contada através de lentes sombrias e cômicas. Os fantasmas presos em uma cabana isolada no deserto tentam desesperadamente estabelecer uma conexão com os hóspedes da casa rústica. Mas até onde irão os espíritos inquietos para atender às necessidades humanas mais básicas?</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THE DEATH DONT HURT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BD3FAA3C3A224D8121743270AC5E9333D783DEF0$nome=DUBLADO NÃO OFICIAL</link>
