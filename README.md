@@ -7,7 +7,14 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] THE DEATH DONT HURT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BD3FAA3C3A224D8121743270AC5E9333D783DEF0$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B49715B9262CCBA74FC0A9295BABB6B4AD80C44$nome=LEG. FIXA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/br67EKUD34UL3mihsHqJhDzJaIt.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Ambientado na década de 1860, a ferozmente independente franco-canadense Vivienne Le Coudy embarca em um relacionamento com o imigrante dinamarquês Holger Olsen.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FOR SALES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
